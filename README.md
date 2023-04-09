@@ -2,17 +2,26 @@
 
 ## Description
 
-This is a boilerplate project file to create any react applications with authentication set up
+This is a boilerplate project file to create any react applications with authentication
+
+## Initial Setup
+
+Create empty repository through commandline or github
+
+1. run `git init` in empty repo
+2. `git remote add boilerplate git@github.com:marlisajp/My-BoilerPlate.git`
+3. `git fetch boilerplate`
+4. `git merge boilerplate/main`
+5. `git branch -m master main`
 
 ## Getting Started
 
-1. Copy this repo
-2. 'npm install'
-3. 'npm run start:dev'
-4. Create your database and replace information in designated files
-5. 'npm run seed'
-6. replace secret key in .env
-7. Have fun!
+1. 'npm install'
+2. 'npm run start:dev'
+3. Create your database and replace information in designated files
+4. 'npm run seed'
+5. replace secret key in .env
+6. Have fun!
 
 ## Technologies Used
 
